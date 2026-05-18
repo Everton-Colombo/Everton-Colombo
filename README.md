@@ -1,10 +1,5 @@
 <div align="center">
-  <svg width="150" height="150" viewBox="0 0 150 150">
-    <clipPath id="circle-clip">
-      <circle cx="75" cy="75" r="75" />
-    </clipPath>
-    <image href="resources/platypus.gif" width="150" height="150" clip-path="url(#circle-clip)" />
-  </svg>
+  <img src="resources/platypus_round.gif" width="150" height="150" alt="Platypus" />
   <br>
   Eveton-Colombo (romcol)
 </div>
