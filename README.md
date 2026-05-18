@@ -1,8 +1,9 @@
 <div align="center">
   <img src="resources/platypus_round.gif" width="150" height="150" alt="Platypus" />
   <br>
-  Eveton-Colombo (romcol)
+  Everton-Colombo (romcol)
 </div>
+
 
 ###
 
