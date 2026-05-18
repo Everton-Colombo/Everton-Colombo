@@ -22,9 +22,8 @@
 
 ###
 
-<p align="left">I'm Everton Colombo, a CS student @ the State University of Campinas (Unicamp), in São Paulo, Brazil.<br><br>- I’m currently working as an undergraduate researcher at Unicamp's Computer Systems Lab, executing research on DToF SPAD-based LiDAR sensors.<br>- I've had experience with a variety of CS fields, including game development, web development, and machine learning.<br>- Currently, I'm focusing on following my great interest for low level development.</p>
+<p align="left">I'm Everton Colombo, a CS student @ the State University of Campinas (Unicamp), in São Paulo, Brazil.<br><br>- I’m currently working as an undergraduate researcher at Unicamp's Computer Systems Lab, executing research on DToF SPAD-based LiDAR sensors.<br>- I've had experience with a variety of CS fields, including game development, web development, and machine learning.<br>- Currently, I'm seeking to follow my great interest for low level development.</p>
 
 ###
 
-
-↓ Check out my pinned repositories below for a quick overview of some of my projects! ↓
+<h3 align="center">Check out my pinned repositories below for a quick overview of some of my projects! ⬇⬇</h3>
