@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="resources/platypus.gif" border-radius="50%" />
+  <img height="150" src="resources/platypus.gif" style="border-radius: 50%;" />
   <br>
   Eveton-Colombo (romcol)
 </div>
@@ -22,15 +22,9 @@
 
 ###
 
-<p align="left">I'm Everton Colombo, a CS student @ the State University of Campinas (Unicamp), in São Paulo, Brazil.<br><br>- I’m currently working as an undergraduate researcher at Unicamp's Computer Systems Lab, executing research on DToF SPAD-based LiDAR sensors.<br>- I've had experience with a variety of CS fields, including game development, web development, and machine learning.<br><br>- Currently I'm focusing on following my great interest for low level development.</p>
+<p align="left">I'm Everton Colombo, a CS student @ the State University of Campinas (Unicamp), in São Paulo, Brazil.<br><br>- I’m currently working as an undergraduate researcher at Unicamp's Computer Systems Lab, executing research on DToF SPAD-based LiDAR sensors.<br>- I've had experience with a variety of CS fields, including game development, web development, and machine learning.<br>- Currently, I'm focusing on following my great interest for low level development.</p>
 
 ###
 
-<h3 align="left">Language and tools</h3>
 
-- **Programming:** Python, Java, C, C++, C#
-- **Libraries/Frameworks:** PyTorch, scikit-learn, Unity Engine, Pandas, NumPy, mpl, Spring Boot, Django
-- **Tools:** git, Docker, GitHub Actions CI/CD, Jira
-- **Languages:** Portuguese (Native), English (Proficient - C2), German (Beginner - A2)
-
-###
+↓ Check out my pinned repositories below for a quick overview of some of my projects! ↓
